@@ -10,4 +10,4 @@ The Elbow curve was created to determint the best value for K.
 
 ![Screen Shot 2022-09-18 at 5 11 59 PM](https://user-images.githubusercontent.com/103322251/190928317-a2a49a79-8636-4ab7-bf88-f4062da619d3.png)
 
- 
+ There are 532 tradable cryptocurrencies
